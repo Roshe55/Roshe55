@@ -1,4 +1,4 @@
-# ¡Hola, me llamo Rocio! 👋
+# ¡Hola, mi nombre es Rocio! 
 
 ¡Bienvenido/a a mi portafolio profesional de Control de Calidad (QA) de Software! 
 
