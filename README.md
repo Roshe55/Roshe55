@@ -22,10 +22,9 @@ Estoy lista para colaborar en equipos multidisciplinarios donde pueda aplicar mi
 
 ---
 
-🔗 [Mi perfil de LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/c-rocio-soto-qa)) *(agrega aquí tu enlace)*
+🔗 [Mi perfil de LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/c-rocio-soto-qa)) 
 
-📌 **Ubicación:** *(Tu ciudad / País)*  
-💼 **LinkedIn:** [Conecta conmigo en LinkedIn](https://www.linkedin.com/) *(actualiza este enlace con tu perfil real)*
+💼 **LinkedIn:** [Conecta conmigo en LinkedIn](https://www.linkedin.com/) 
 
 ---
 
